@@ -1,2 +1,3 @@
 # blog-comments
-Comment repo for tanelpoder.com blog
+Comment repo for https://tanelpoder.com
+
